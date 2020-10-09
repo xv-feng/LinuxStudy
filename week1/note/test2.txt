@@ -1,0 +1,2 @@
+我已经再次“清空了缓存区”，再此之前分别提交并push了week2下的note和code,在远程也有完整显示。
+现在要add 这个文件commit再push.
