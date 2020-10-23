@@ -1,0 +1,1 @@
+![image-20201023210800859](week4_note.assets/image-20201023210800859.png)![image-20201023210816483](week4_note.assets/image-20201023210816483.png)
